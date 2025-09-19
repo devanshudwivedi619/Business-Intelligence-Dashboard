@@ -57,3 +57,18 @@ The dashboard highlights **KPIs, category-wise trends, regional performance, shi
 ---
 
 ## 📌 Repository Structure  
+
+
+Business-Intelligence-Dashboard/
+│
+├── data/                # Raw data & processed data
+│   └── sales_data.xlsx
+│
+├── dashboard/           # Final dashboards
+│   └── BI_Dashboard.xlsx
+│
+├── images/              # Screenshots for README
+│   └── dashboard_preview.png
+│
+├── README.md            # Full project description
+└── .gitignore
